@@ -84,7 +84,7 @@ A complete sales analysis project using **Microsoft SQL Server** built on a dumm
 
 | File / Folder           | Description |
 |-------------------------|-------------|
-| `sql_scripts/` https://1drv.ms/u/c/44ee9b98ba9a1f65/Ef37q3DuLA9AmaGiK8B8ChgBEtP-Y3kZ7rlj0L-Hj9rOJA?e=7kdrzV         | Contains the full SQL code: table creation, data inserts, and all queries |
+| [`sql_scripts/`](https://1drv.ms/u/c/44ee9b98ba9a1f65/Ef37q3DuLA9AmaGiK8B8ChgBEtP-Y3kZ7rlj0L-Hj9rOJA?e=7kdrzV)        | Contains the full SQL code: table creation, data inserts, and all queries |
 | `README.md`             | Documentation of the project |
 
 ---
@@ -114,7 +114,8 @@ JOIN Products p ON o.ProductID = p.ProductID;
 
 ---
 
-## 📌 Key Metrics
+
+📌 Key Metrics
 
 Metric | Value 
 Total Sales | $892.14
